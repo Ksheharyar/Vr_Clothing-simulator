@@ -1,0 +1,19 @@
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/.vs/
+
+*.VC.db
+*.opensdf
+*.sdf
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Build files
+Build/*
+
+# Ignore packaged builds
+*.apk
+*.exe
