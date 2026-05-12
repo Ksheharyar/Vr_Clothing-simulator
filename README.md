@@ -20,6 +20,7 @@ The simulation focuses on:
 
 Users can dynamically change:
 
+
 👔 Shirts
 👖 Pants
 👟 Shoes
