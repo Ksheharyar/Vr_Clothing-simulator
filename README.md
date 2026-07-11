@@ -14,7 +14,7 @@ The simulation focuses on:
 🏬 Immersive showroom experience 
 🪞 Mirror-based outfit visualization
 🖥️ VR UI interactions
-⚡ Optimized VR performance for Meta Quest 
+⚡ Optimized VR performance for Meta Quest  
 🚀 Features
 👕 Real-Time Clothing Switching
 
