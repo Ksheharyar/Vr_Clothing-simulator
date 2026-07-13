@@ -19,8 +19,7 @@ The simulation focuses on:
 👕 Real-Time Clothing Switching
 
 Users can dynamically change:
-
-
+ 
 👔 Shirts
 👖 Pants
 👟 Shoes
