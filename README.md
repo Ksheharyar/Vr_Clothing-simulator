@@ -24,7 +24,7 @@ Users can dynamically change:
 👖 Pants
 👟 Shoes
 🧢 Hats
-
+  
 using interactive VR buttons in real time.
 
 🎮 VR Interaction System
