@@ -26,7 +26,7 @@ Users can dynamically change:
 🧢 Hats
   
 using interactive VR buttons in real time.
-
+ 
 🎮 VR Interaction System
 🕹️ Motion controller interaction
 🔘 Physical VR button system
