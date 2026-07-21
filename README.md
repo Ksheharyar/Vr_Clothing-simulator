@@ -10,7 +10,7 @@ The VR Clothing Simulator is designed to provide an interactive virtual fashion 
 The simulation focuses on: 
 
 👔 Real-time outfit switching
-🎮 Interactive VR controls 
+🎮 Interactive VR controls  
 🏬 Immersive showroom experience 
 🪞 Mirror-based outfit visualization
 🖥️ VR UI interactions
