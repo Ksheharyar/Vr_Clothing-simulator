@@ -5,7 +5,7 @@ This project allows users to interact with a virtual showroom environment and dy
 
 🌟 Project Overview
 
-The VR Clothing Simulator is designed to provide an interactive virtual fashion experience where users can browse, select, and wear different clothing items inside a fully immersive VR environment. 🛍️✨
+The VR Clothing Simulator is designed to provide an interactive virtual fashion experience where users can browse, select, and wear different clothing items inside a fully immersive VR environment. 🛍️✨ 
 
 The simulation focuses on: 
 
