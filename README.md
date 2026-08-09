@@ -1,4 +1,4 @@
-👕🕶️ VR Clothing Simulator
+ 👕🕶️ VR Clothing Simulator
 
 A Virtual Reality Clothing Try-On Simulation developed in Unreal Engine 5 for Meta Quest devices.
 This project allows users to interact with a virtual showroom environment and dynamically change outfits in real time using immersive VR interactions. 🚀
